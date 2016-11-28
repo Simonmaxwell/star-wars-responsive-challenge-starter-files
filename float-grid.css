@@ -14,6 +14,22 @@
  *   so 960 + 20 + 20 => 1000px
  *
  **/
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+
+
+
+
+
+
 .row {
   max-width: 1000px;
   padding-left: 20px;
