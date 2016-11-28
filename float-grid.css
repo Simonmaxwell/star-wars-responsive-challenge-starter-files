@@ -25,8 +25,14 @@ header {
   margin-bottom: 40px;
 }
 
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
 
-
+header p {
+  margin-top: 0.5em;
+}
 
 
 
